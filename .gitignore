@@ -66,4 +66,4 @@ coverage.xml
 *.bak
 *.tmp
 
-echo "firebase-service-account.json" >> .gitignore
+firebase-service-account.json
